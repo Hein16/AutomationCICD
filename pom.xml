@@ -99,7 +99,7 @@
         <version>3.2.5</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>D:\Selenium_Workspace\SeleniumFrameworkDesign2\src\main\java\TestSuites\testng.xml</suiteXmlFile>
+			  <suiteXmlFile>${user.dir}/src/main/java/TestSuites/testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
@@ -121,7 +121,7 @@
         <version>3.2.5</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>D:\Selenium_Workspace\SeleniumFrameworkDesign2\src\main\java\TestSuites\PurchaseTest.xml</suiteXmlFile>
+            <suiteXmlFile>${user.dir}/src/main/java/TestSuites/PurchaseTest.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
@@ -143,7 +143,7 @@
         <version>3.2.5</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>D:\Selenium_Workspace\SeleniumFrameworkDesign2\src\main\java\TestSuites\ErrorValidationTest.xml</suiteXmlFile>
+            <suiteXmlFile>${user.dir}/src/main/java/TestSuites/ErrorValidationTest.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
